@@ -40,8 +40,8 @@ public abstract class AutomatonSpecification implements Cloneable  {
         return to;
     }
 
-    /**
-     * Dla zadanego słowa dodaje stany i przejścia.
+    /***
+     ** Dla zadanego słowa dodaje stany i przejścia.
      *
      * Zwraca stan końcowy.
      */
